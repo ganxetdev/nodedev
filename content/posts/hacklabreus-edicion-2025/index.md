@@ -32,3 +32,13 @@ Esta edición de 2025 ha sido un exito. Hablamos sobre ciberseguridad y buenas p
   ![Foto 9](photo_9.jpg)
   ![Foto 10](photo_10.jpg)
 </div>
+{{< figure src="photo_1.jpg" >}}
+{{< figure src="photo_2.jpg" >}}
+{{< figure src="photo_3.jpg" >}}
+{{< figure src="photo_4.jpg" >}}
+{{< figure src="photo_5.jpg" >}}
+{{< figure src="photo_6.jpg" >}}
+{{< figure src="photo_7.jpg" >}}
+{{< figure src="photo_8.jpg" >}}
+{{< figure src="photo_9.jpg" >}}
+{{< figure src="photo_10.jpg" >}}
