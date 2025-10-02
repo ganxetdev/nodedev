@@ -12,7 +12,7 @@ title = "HacklabReus"
   [[menu.main]]
     identifier = "home"
     name = "Inicio"
-    url = "/nodedev/"
+    url = "/"
     weight = 1
 
 [[menu.main]]
