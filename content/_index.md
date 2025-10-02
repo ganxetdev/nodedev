@@ -5,7 +5,7 @@ draft: false
 ---
 
 # ¡Bienvenidos a HacklabReus!
-{{< image src="/img/logo.png" alt="Hacklabreus" position="right" style="max-width:200px; border-radius: 8px;" >}}
+{{< image src="/img/logo.png" alt="Hacklabreus" position="right" style="max-width:200px; float:right; border-radius: 8px;" >}}
 Somos un grupo de amigos que organiza **conferencias y charlas de seguridad informática** totalmente gratuitas y altruistas.  
 
 Aquí encontrarás noticias, posts y recursos útiles relacionados con hacking ético y ciberseguridad.
