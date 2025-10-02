@@ -14,8 +14,8 @@ Aquí encontrarás noticias, posts y recursos útiles relacionados con hacking �
 
 ## Próximos eventos
 
-- Taller de seguridad en redes – Fecha por confirmar  
-- Charla sobre pruebas de penetración – Fecha por confirmar  
+- **Hacklabreus edición 2025** – 08/02/2025 - Evento finalizado!
+- **Hacklabreus edición 2026** – Fecha por confirmar
 
 ---
 
