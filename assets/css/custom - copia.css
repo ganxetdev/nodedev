@@ -1,0 +1,23 @@
+/* Grid de 3 columnas */
+.post-content figure {
+  display: inline-block;
+  width: 30%;          /* ancho de cada imagen */
+  margin-right: 1.5%;  /* espacio entre columnas */
+  margin-bottom: 5px; /* espacio entre filas */
+  vertical-align: top;
+  
+  border: none;        /* quitar borde del figure */
+  padding: 0;          /* quitar padding */
+}
+
+.post-content figure img {
+  width: 100%;         /* imagen ocupa todo el ancho del figure */
+  height: auto;        /* mantener proporción */
+  border-radius: 8px;  /* opcional: esquinas redondeadas */
+}
+
+.post-content figure:nth-child(3n) {
+  margin-right: 0;     /* quitar margen de la última columna */
+}
+
+
