@@ -3,7 +3,7 @@
   display: inline-block;
   width: 30%;          /* ancho de cada imagen */
   margin-right: 1.5%;  /* espacio entre columnas */
-  margin-bottom: 10px; /* espacio entre filas */
+  margin-bottom: 5px; /* espacio entre filas */
   vertical-align: top;
   
   border: none;        /* quitar borde del figure */
