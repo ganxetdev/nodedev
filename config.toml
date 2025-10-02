@@ -2,3 +2,6 @@ theme = "terminal"
 baseURL = "https://ganxetdev.github.io/nodedev/"
 languageCode = "es"
 title = "HacklabReus"
+
+[params]
+  logo = "HacklabReus"
