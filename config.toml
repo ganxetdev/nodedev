@@ -4,4 +4,6 @@ languageCode = "es"
 title = "HacklabReus"
 
 [params]
-  logo = "HacklabReus"
+  [params.Logo]
+  logoText = "HacklabReus"
+  LogoHomeLink = "/"
