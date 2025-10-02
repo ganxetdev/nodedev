@@ -6,7 +6,7 @@ title = "HacklabReus"
 [params]
   [params.Logo]
   logoText = "HacklabReus"
-  logoImage = "img/glide.png"
+  logoImage = "img/logo.png"
   LogoHomeLink = "/"
 
 [menu]
