@@ -9,6 +9,7 @@ pagination.pagerSize = 5
   noClasses = false
 
 [params]
+  customCSS = ["static/custom.css"]
   # show selector to switch language
   showLanguageSelector = false
 
