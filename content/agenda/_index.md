@@ -1,21 +1,25 @@
 ---
-title: "HacklabReus"
-date: 2025-10-02T12:00:00+01:00
+title: "Agenda"
 draft: false
 ---
 
-# ¡Bienvenidos a HacklabReus!
+# Agenda de HacklabReus
 
-Somos un grupo de amigos que organiza **conferencias y charlas de seguridad informática** totalmente gratuitas y altruistas.  
-
-Aquí encontrarás noticias, posts y recursos útiles relacionados con hacking ético y ciberseguridad.  
+Aquí encontrarás nuestros próximos eventos y charlas de seguridad informática.
 
 ---
 
 ## Próximos eventos
 
-- **Hacklabreus edición 2026** – Fecha por confirmar  
+- **Hacklabreus edición 2025** – 08/02/2025 - Evento finalizado!
+- **Hacklabreus edición 2026** – Fecha por confirmar
 
 ---
+
+## Notas
+
+- Todos los eventos son gratuitos y abiertos a la comunidad.  
+- Si quieres proponer un tema o taller, contáctanos desde la sección **Contacto**.
+
 
 
