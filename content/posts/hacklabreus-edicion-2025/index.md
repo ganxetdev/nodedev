@@ -18,13 +18,7 @@ Des de l’organització de HackLabReus us volem agraïr de tot cor la vostre pr
   {{< figure src="photo_9.jpg" width="30%" >}}
   {{< figure src="photo_10.jpg" width="30%" >}}
 
-<a href="photo_1.jpg" target="_blank">{{< figure src="photo_1.jpg" width="32%" >}}</a>
-<a href="photo_2.jpg" target="_blank">{{< figure src="photo_2.jpg" width="32%" >}}</a>
-<a href="photo_3.jpg" target="_blank">{{< figure src="photo_3.jpg" width="32%" >}}</a>
-<a href="photo_4.jpg" target="_blank">{{< figure src="photo_4.jpg" width="32%" >}}</a>
-<a href="photo_5.jpg" target="_blank">{{< figure src="photo_5.jpg" width="32%" >}}</a>
-<a href="photo_6.jpg" target="_blank">{{< figure src="photo_6.jpg" width="32%" >}}</a>
-<a href="photo_7.jpg" target="_blank">{{< figure src="photo_7.jpg" width="32%" >}}</a>
-<a href="photo_8.jpg" target="_blank">{{< figure src="photo_8.jpg" width="32%" >}}</a>
-<a href="photo_9.jpg" target="_blank">{{< figure src="photo_9.jpg" width="32%" >}}</a>
-<a href="photo_10.jpg" target="_blank">{{< figure src="photo_10.jpg" width="32%" >}}</a>
+{{< figure-link src="photo_1.jpg" alt="Foto 1" >}}
+{{< figure-link src="photo_2.jpg" alt="Foto 2" >}}
+{{< figure-link src="photo_3.jpg" alt="Foto 3" >}}
+{{< figure-link src="photo_4.jpg" alt="Foto 4" >}}
