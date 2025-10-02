@@ -2,8 +2,34 @@ theme = "terminal"
 baseURL = "https://hacklabreus.org"
 languageCode = "es"
 title = "HacklabReus"
+pagination.pagerSize = 5
+
+# Required for Chroma and the custom syntax highlighting.
+[markup.highlight]
+  noClasses = false
 
 [params]
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = false
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # whether to show a page's estimated reading time
+  # readingTime = false # default
+
+  # dateFormat = "2006-01-02"
+
   [params.Logo]
   logoText = "HacklabReus"
   logoImage = "img/logo.png"
