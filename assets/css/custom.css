@@ -21,4 +21,11 @@
   border-radius: 8px; /* opcional */
 }
 
+/* Quitar borde amarillo del tema */
+.post-content figure,
+.post-content figure img {
+  border: none !important;       /* elimina cualquier borde */
+  box-shadow: none !important;   /* elimina sombras si las hubiera */
+}
+
 
