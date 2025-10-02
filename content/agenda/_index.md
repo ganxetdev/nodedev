@@ -18,6 +18,4 @@ Aquí encontrarás noticias, posts y recursos útiles relacionados con hacking �
 
 ---
 
-## Últimos posts
 
-{{< recent-posts 5 >}}
