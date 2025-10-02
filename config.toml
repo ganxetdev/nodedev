@@ -4,7 +4,6 @@ languageCode = "es"
 title = "HacklabReus"
 
 [params]
-  favicon = "images/hacklabreus.ico"
   [params.Logo]
   logoText = "HacklabReus"
   logoImage = "img/glide.png"
