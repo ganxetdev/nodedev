@@ -3,7 +3,7 @@ title: "Resumen edición 2025"
 date: 2025-02-08
 ---
 
-{{< image src="logo-hacklabreus-2025" alt="Hacklabreus" position="right" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}}
+{{< image src="logo-hacklabreus-2025.png" alt="Hacklabreus" position="right" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}}
 Esta edición de 2025 ha sido un exito. Hablamos sobre ciberseguridad y buenas prácticas. ¡Gracias a todos los que asistieron!
 
 <div style="display:flex; flex-wrap: wrap; gap:10px;">
@@ -12,4 +12,10 @@ Esta edición de 2025 ha sido un exito. Hablamos sobre ciberseguridad y buenas p
   <img src="photo_3.jpg" style="width:30%;" />
   <img src="photo_4.jpg" style="width:30%;" />
   <img src="photo_5.jpg" style="width:30%;" />
+  <img src="photo_6.jpg" style="width:30%;" />
+  <img src="photo_7.jpg" style="width:30%;" />
+  <img src="photo_8.jpg" style="width:30%;" />
+  <img src="photo_9.jpg" style="width:30%;" />
+  <img src="photo_10.jpg" style="width:30%;" />
+  <img src="photo_11.jpg" style="width:30%;" />
 </div>
