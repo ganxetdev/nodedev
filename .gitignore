@@ -1,0 +1,10 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Directorios de compilación Hugo
+/public/
+resources/_gen/
+
+# Logs y temporales
+*.log
