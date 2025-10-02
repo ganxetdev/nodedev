@@ -17,7 +17,7 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: Build Hugo site
+      - name: Build Hugo site 
         run: hugo --minify
 
       - name: Deploy to Github Pages
