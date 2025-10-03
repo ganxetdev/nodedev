@@ -19,7 +19,7 @@ Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionat
 
 ---
 
-## Secciones destacadas
+## Seccions destacades
 
 - [Blog](/posts/) – Últims articles i notícies  
 - [Agenda](/agenda/) – Propers esdeveniments i xerrades  
