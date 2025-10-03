@@ -3,6 +3,7 @@ baseURL = "https://hacklabreus.org"
 languageCode = "es"
 title = "HacklabReus"
 pagination.pagerSize = 5
+disableHugoGeneratorInject = true
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
