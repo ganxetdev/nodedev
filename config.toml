@@ -14,7 +14,7 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
 
 [minify]
   disableXML = true       # No minificar XML (feeds, sitemap)
-  minifyOutput = false     # Minificar HTML, CSS, JS
+  minifyOutput = true     # Minificar HTML, CSS, JS
 
 
 # Required for Chroma and the custom syntax highlighting.
@@ -52,7 +52,7 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true
 
 [menu]
   [[menu.main]]
