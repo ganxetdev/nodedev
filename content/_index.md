@@ -8,7 +8,7 @@ draft: false
 # ¡Bienvenidos a HacklabReus!
 Somos un grupo de amigos que organiza **conferencias y charlas de seguridad informática** totalmente gratuitas y altruistas.  
 
-Aquí encontrarás noticias, posts y recursos útiles relacionados con hacking ético y ciberseguridad.
+Aquí encontrarás información sobre los eventos que organizamos relacionados con ciberseguridad y hacking ético.
 
 ---
 
