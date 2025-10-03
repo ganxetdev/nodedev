@@ -6,9 +6,9 @@ description = "Blog y web de conferencias de seguridad informática Hacklabreus 
 keywords = ["hacklabreus","Reus","ciberseguridad","hacking ético", "seguridad informática", "conferencias"]
 pagination.pagerSize = 5
 
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 disableHugoGeneratorInject = true
 disableKinds = ["RSS", "sitemap", "robotsTXT"]
 
