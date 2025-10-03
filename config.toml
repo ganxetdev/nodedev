@@ -2,8 +2,19 @@ theme = "terminal"
 baseURL = "https://hacklabreus.org"
 languageCode = "es"
 title = "HacklabReus"
+description = "Blog y web de conferencias de seguridad informática Hacklabreus Hack lab Reus"
+keywords = ["hacklabreus","Reus","ciberseguridad","hacking ético", "seguridad informática", "conferencias"]
 pagination.pagerSize = 5
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 disableHugoGeneratorInject = true
+
+[minify]
+  disableXML = true       # No minificar XML (feeds, sitemap)
+  minifyOutput = true     # Minificar HTML, CSS, JS
+
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
