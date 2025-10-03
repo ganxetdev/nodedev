@@ -6,7 +6,7 @@ draft: false
 
 {{< image src="/img/logo.png" alt="Hacklabreus" position="right" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}}
 # ¡Benvinguts a HacklabReus!
-Som un grup d’amics que organitza **conferències i xerrades de seguretat informàtica** totalment gratuïtes i altruistes. 
+Som un grup d’amics que organitza **conferències i xerrades de seguretat informàtica** totalment gratuïtes i altruistes a Reus.
 
 Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionats amb ciberseguretat i hacking ètic.
 

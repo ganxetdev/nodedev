@@ -5,7 +5,7 @@ draft: false
 
 # Agenda de HacklabReus
 
-Aquí hi trobaràs els nostres pròxims esdeveniments i xerrades de seguretat informàtica.
+Aquí hi trobaràs els nostres pròxims esdeveniments i xerrades de seguretat informàtica que fem a Reus.
 
 ---
 
