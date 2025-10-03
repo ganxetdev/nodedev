@@ -48,6 +48,11 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
   logoText = "HacklabReus"
   logoImage = "img/logo.png"
   LogoHomeLink = "/"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
   [[menu.main]]
