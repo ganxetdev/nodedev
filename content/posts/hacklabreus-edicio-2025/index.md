@@ -1,5 +1,5 @@
 ---
-title: "Resumen edición 2025"
+title: "Resum edició 2025"
 date: 2025-02-01
 ---
 
