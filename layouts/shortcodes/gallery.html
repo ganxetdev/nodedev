@@ -1,4 +1,4 @@
-{{/* USAGE */}}
+{{/* Shortcode: gallery */}}
 {{- $items := split .Inner "\n- " -}}
 {{- $class := .Get "class" -}}
 {{- $gridCols := .Get "cols" | default "3" -}}
@@ -14,17 +14,12 @@
 {{- $scaleFactor := .Get "scale" | default "2" -}}
 {{- $durationExpand := .Get "durexpand" | default "0.5s" | safeCSS -}}
 {{- $durationShrink := .Get "durshrink" | default "0.25s" | safeCSS -}}
-<style>
-  {{ $sass := resources.Get "scss/gallery-grid.scss" }}
-  {{ ($sass | resources.ToCSS | minify).Content | safeCSS }}
-</style>
+
+<!-- Incluye CSS plano ya compilado -->
+<link rel="stylesheet" href="{{ "css/gallery-grid.css" | relURL }}">
+
 <section
-  class="
-    grid-gallery
-  {{- with $class }}
-    {{ . }}
-  {{ end -}}
-  "
+  class="grid-gallery {{ $class }}"
   style="
     --grid-cols: {{ $gridCols }};
     --grid-gallery-background: {{ $gridBackground }};
@@ -42,25 +37,24 @@
   "
 >
   <ul role="list">
-    {{ range $items -}}
+    {{ range $items }}
       {{- $fields := split . "\n  " -}}
       {{- $src := index $fields 0 }}
       {{- $alt := index $fields 1 }}
       {{- $cap := index $fields 2 }}
-      {{ with $src -}}
+      {{ with $src }}
         <li>
           <button>
             <figure>
               <img src="{{ . }}" {{ with $alt }}alt="{{ . }}"{{ end }} />
-              {{ with $cap -}}
-                <figcaption>{{ . }}</figcaption>
-              {{ end -}}
+              {{ with $cap }}<figcaption>{{ . }}</figcaption>{{ end }}
             </figure>
           </button>
         </li>
-      {{ end -}}
-    {{ end -}}
+      {{ end }}
+    {{ end }}
   </ul>
 </section>
-{{ $js := resources.Get "js/gallery-grid.js" | js.Build }}
-<script type="text/javascript" src="{{ $js.RelPermalink }}" defer></script>
+
+<!-- Incluye JS estático -->
+<script src="{{ "js/gallery-grid.js" | relURL }}" defer></script>
