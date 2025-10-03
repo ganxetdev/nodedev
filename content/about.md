@@ -1,5 +1,5 @@
 ---
-title: "Quiénes somos"
+title: "Qui som"
 ---
 
-HacklabReus es un grupo de entusiastas de la seguridad informática. Nos reunimos periódicamente para compartir conocimientos y aprender juntos.
+HacklabReus és un grup d’entusiastes de la seguretat informàtica. Ens reunim periòdicament per compartir coneixements i aprendre junts.

@@ -1,5 +1,5 @@
 ---
-title: "Contacto"
+title: "Contacte"
 ---
 
-Puedes escribirnos a hacklabreus@gmail.com o seguirnos en nuestras redes sociales.
+Pots escriure’ns a hacklabreus@gmail.com o seguir-nos a les nostres xarxes socials.

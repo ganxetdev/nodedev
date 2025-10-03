@@ -1,12 +1,12 @@
 ---
-title: "Edicion 2025"
+title: "Edició 2025"
 date: 2025-02-01
 ---
 
-📅 Fecha: 1 de febrero 2025  
-📍 Lugar: Sala de conferencias HacklabReus  
+📅 Data: 1 de febrer 2025  
+📍 Lloc: Sala de conferencies HacklabReus  
 
 {{< image src="/img/cartell-hacklabreus-2025.png" alt="Hacklabreus" position="right" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}}
 
 
-Tema: Ciberseguridad y Hacking Etico.
+Tema: Ciberseguretat i Hacking Ètic.

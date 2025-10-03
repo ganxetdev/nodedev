@@ -5,23 +5,23 @@ draft: false
 ---
 
 {{< image src="/img/logo.png" alt="Hacklabreus" position="right" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}}
-# ¡Bienvenidos a HacklabReus!
-Somos un grupo de amigos que organiza **conferencias y charlas de seguridad informática** totalmente gratuitas y altruistas.  
+# ¡Benvinguts a HacklabReus!
+Som un grup d’amics que organitza **conferències i xerrades de seguretat informàtica** totalment gratuïtes i altruistes. 
 
-Aquí encontrarás información sobre los eventos que organizamos relacionados con ciberseguridad y hacking ético.
+Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionats amb ciberseguretat i hacking ètic.
 
 ---
 
-## Próximos eventos
+## Propers esdeveniments
 
-- **Hacklabreus edición 2025** – 08/02/2025 - Evento finalizado!
-- **Hacklabreus edición 2026** – Fecha por confirmar
+- **Hacklabreus edició 2025** – 08/02/2025 - Esdeveniment finalitzat!
+- **Hacklabreus edició 2026** – Data per confirmar
 
 ---
 
 ## Secciones destacadas
 
-- [Blog](/posts/) – Últimos artículos y noticias  
-- [Agenda](/agenda/) – Próximos eventos y charlas  
-- [Contacto](/contact/) – Contáctanos y propuestas
+- [Blog](/posts/) – Últims articles i notícies  
+- [Agenda](/agenda/) – Propers esdeveniments i xerrades  
+- [Contacte](/contact/) – Contacta’ns i propostes
 

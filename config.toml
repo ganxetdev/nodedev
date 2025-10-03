@@ -39,7 +39,7 @@ pagination.pagerSize = 5
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Inicio"
+    name = "Inici"
     url = "/"
     weight = 1
 
@@ -57,12 +57,12 @@ pagination.pagerSize = 5
 
   [[menu.main]]
     identifier = "about"
-    name = "Acerca de"
+    name = "Qui som"
     url = "/about/"
     weight = 4
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contacto"
+    name = "Contacte"
     url = "/contact/"
     weight = 5

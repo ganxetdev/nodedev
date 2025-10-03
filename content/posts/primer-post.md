@@ -1,6 +1,6 @@
 ---
-title: "Bienvenido a HacklabReus"
+title: "Benvinguts a HacklabReus"
 date: 2015-01-01
 ---
 
-¡Bienvenidos a la web de Hacklabreus, aqui enontrareis toda la información relacionada con las conferencias que organizamos de seguridad informática! 
+Benvinguts a la web de Hacklabreus, aquí hi trobareu tota la informació relacionada amb les conferències que organitzem de seguretat informàtica!

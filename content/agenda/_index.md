@@ -5,30 +5,30 @@ draft: false
 
 # Agenda de HacklabReus
 
-Aquí encontrarás nuestros próximos eventos y charlas de seguridad informática.
+Aquí hi trobaràs els nostres pròxims esdeveniments i xerrades de seguretat informàtica.
 
 ---
 
-## Próximos eventos
+## Propers esdeveniments
 
-- **Hacklabreus edición 2016** – Evento finalizado!
-- **Hacklabreus edición 2017** – Evento finalizado!
-- **Hacklabreus edición 2018** – Evento finalizado!
-- **Hacklabreus edición 2020** – Evento finalizado!
-- **Hacklabreus edición 2021** – Evento finalizado!
-- **Hacklabreus edición 2022** – Evento finalizado!
-- **Hacklabreus edición 2023** – Evento finalizado!
-- **Hacklabreus edición 2024** - Evento finalizado!
-- **Hacklabreus edición 2025** – 01/02/2025 - Evento finalizado!
-- **Hacklabreus edición 2026** – Fecha por confirmar
+- **Hacklabreus edició 2016** – Esdeveniment finalitzat!
+- **Hacklabreus edició 2017** – Esdeveniment finalitzat!
+- **Hacklabreus edició 2018** – Esdeveniment finalitzat!
+- **Hacklabreus edició 2020** – Esdeveniment finalitzat!
+- **Hacklabreus edició 2021** – Esdeveniment finalitzat!
+- **Hacklabreus edició 2022** – Esdeveniment finalitzat!
+- **Hacklabreus edició 2023** – Esdeveniment finalitzat!
+- **Hacklabreus edició 2024** - Esdeveniment finalitzat!
+- **Hacklabreus edició 2025** – 01/02/2025 - Esdeveniment finalitzat!
+- **Hacklabreus edició 2026** – Data sense confirmar
 
 ---
 
-## Notas
+## Notes
 
-- Todos los eventos son gratuitos y abiertos a la comunidad.
-- Las plazas son limitadas, depende del aforo del lugar donde se realizen las conferencias. 
-- Si quieres proponer un tema o taller, contáctanos desde la sección **Contacto**.
+- Tots els esdeveniments són gratuïts i oberts a la comunitat.
+- Les places són limitades, depèn de l’aforament del lloc on es facin les conferències. 
+- Si vols proposar un tema o taller, contacta’ns des de la secció **Contacte**.
 
 
 
