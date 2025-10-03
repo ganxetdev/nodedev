@@ -10,6 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 disableHugoGeneratorInject = true
+disableKinds = ["RSS", "sitemap", "robotsTXT"]
 
 [minify]
   disableXML = true       # No minificar XML (feeds, sitemap)
