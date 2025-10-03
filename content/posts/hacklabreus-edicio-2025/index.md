@@ -10,13 +10,6 @@ Des de l’organització de HackLabReus us volem agraïr de tot cor la vostre pr
 
 {{/*< img_gallery folder="/img/edicio2025/" >*/}}
 
-{{< gallery >}}
-- photo_1.jpg
-  A small cat
-- photo_2.jpg
-  A tiny kitten
-  This one is my favorite
-{{</ gallery >}}
 
 <div class="post-content">
 {{< figure-link src="photo_1.jpg" alt="Foto 1" >}}
