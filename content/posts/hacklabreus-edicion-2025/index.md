@@ -1,6 +1,6 @@
 ---
 title: "Resumen edición 2025"
-date: 2025-02-08
+date: 2025-02-01
 ---
 
 {{< image src="logo-hacklabreus-2025.png" alt="Hacklabreus" position="right" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}}
