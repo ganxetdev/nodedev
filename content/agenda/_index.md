@@ -11,7 +11,7 @@ Aquí encontrarás nuestros próximos eventos y charlas de seguridad informátic
 
 ## Próximos eventos
 
-- **Hacklabreus edición 2025** – 08/02/2025 - Evento finalizado!
+- **Hacklabreus edición 2025** – 01/02/2025 - Evento finalizado!
 - **Hacklabreus edición 2026** – Fecha por confirmar
 
 ---
