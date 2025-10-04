@@ -54,7 +54,10 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+    
 [menu]
   [[menu.main]]
     identifier = "home"
