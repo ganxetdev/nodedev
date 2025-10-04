@@ -1,12 +1,12 @@
 .dreta {
   float:right;
-  max-width: 40%;
+  max-width: 32%;
   margin-left: 5px
 }
 
 .esquerra {
   float:left;
-  max-width: 40%;
+  max-width: 32%;
   margin-right: 20px
 }
 
