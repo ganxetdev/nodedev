@@ -11,6 +11,8 @@ Som un grup d’amics que organitza **conferències i xerrades de seguretat info
 
 Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionats amb ciberseguretat i hacking ètic.
 
+
+
 ---
 
 ## Propers esdeveniments
