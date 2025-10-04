@@ -1,4 +1,4 @@
-theme = "terminal"
+theme = ["terminal", "hugo-shortcode-gallery"]
 baseURL = "https://hacklabreus.org"
 languageCode = "es"
 title = "HacklabReus"
