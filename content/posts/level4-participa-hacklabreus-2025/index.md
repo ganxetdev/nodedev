@@ -4,7 +4,7 @@ date: 2025-02-01
 ---
 
 ![](rossend.jpg)
-{width="400" alt="Rossend Level4" class="dreta"}
+{width="300" alt="Rossend Level4" class="dreta"}
 Aquest dissabte 1 de febrer vam tenir el plaer de rebre a Level4 a HACKLABREUS, una jornada plena d’aprenentatge i innovació en ciberseguretat, celebrada al Centre d’Innovació i Formació Boca de la Mina, a la ciutat de Reus (Tarragona).  
 
 
