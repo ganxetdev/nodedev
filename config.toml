@@ -43,7 +43,7 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
   # whether to show a page's estimated reading time
   # readingTime = false # default
 
-  # dateFormat = "2006-01-02"
+  dateFormat = "20-01-2006"
 
   [params.Logo]
   logoText = "HacklabReus"

@@ -1,7 +1,7 @@
 ---
 title: "Resum edició 2019"
 description: "Dissabte passat vam tenir una jornada prou intensa, un servidor va mostrar com mitjatçant un plugin de wordpress podiem comprometre un servidor i garantir l accés i infectar al clients que el visitesin."
-date: 2019-02-01
+date: 01-02-2019
 ---
 Dissabte passat vam tenir una jornada prou intensa, un servidor va mostrar com mitjatçant un plugin de wordpress podiem comprometre un servidor i garantir l accés i infectar al clients que el visitesin.
 

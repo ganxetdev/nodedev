@@ -1,7 +1,7 @@
 ---
 title: "Level4 participa a les ponències de la HACKLABREUS 2025"
 description: "Aquest dissabte 1 de febrer vam tenir el plaer de rebre a Level4 a HACKLABREUS, una jornada plena d’aprenentatge i innovació en ciberseguretat, celebrada al Centre d’Innovació i Formació Boca de la Mina, a la ciutat de Reus (Tarragona)."
-date: 2025-02-01
+date: 02-02-2025
 ---
 
 ![Rossend Level4](rossend.jpg)
