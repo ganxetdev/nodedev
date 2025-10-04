@@ -17,6 +17,7 @@ Aquest dissabte 1 de febrer vam tenir el plaer de rebre a Level4 a HACKLABREUS, 
 {{< image src="level4.jpg" alt="level4-hacklabreus-2025" position="center" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}} 
 {{< figure src="level4.jpg" alt="Level4-hacklabreus" width=200px link="https://level4.es">}}
 {{% /comment %}}
+<p></p>
 ![Level4](level4.jpg)
 {width="200" alt="Level4" class="centrat"}
 [https://level4.es/hacklabreus-2025/](https://level4.es/hacklabreus-2025/ "Fes clic aqui per llegir la noticia al web de Level4")
