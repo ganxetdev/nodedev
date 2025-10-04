@@ -22,7 +22,8 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
   noClasses = false
 
 [params]
-  customCSS = ["css/custom.css"]
+  #customCSS = ["css/custom.css"]
+  ReadMore = "Llegeix més"
   # show selector to switch language
   showLanguageSelector = false
 
