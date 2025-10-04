@@ -1,6 +1,6 @@
 theme = ["terminal", "hugo-shortcode-gallery"]
 baseURL = "https://hacklabreus.org"
-languageCode = "es"
+languageCode = "es-es"
 title = "HacklabReus"
 description = "Blog y web de conferencias de seguridad informática Hacklabreus Hack lab Reus"
 keywords = ["hacklabreus","Reus","ciberseguridad","hacking ético", "seguridad informática", "conferencias"]
