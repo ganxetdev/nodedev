@@ -1,16 +1,16 @@
-.right {
+.dreta {
   float:right;
   max-width: 40%;
   margin-left: 5px
 }
 
-.left {
+.esquerra {
   float:left;
   max-width: 40%;
   margin-right: 20px
 }
 
-.center {
+.centrat {
   display: block;
   margin: auto;
   text-align: center;
