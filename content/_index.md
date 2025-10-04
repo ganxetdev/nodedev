@@ -5,7 +5,7 @@ draft: false
 ---
 
 ![Hacklabreus-2025](img/logo.png)
-{width="200" alt="Hacklabreus" class="dreta"}
+{width="200" alt="Hacklabreus"}
 # ¡Benvinguts a HacklabReus!
 Som un grup d’amics que organitza **conferències i xerrades de seguretat informàtica** totalment gratuïtes i altruistes a Reus.
 
