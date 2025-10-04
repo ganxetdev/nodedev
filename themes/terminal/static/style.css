@@ -1,13 +1,17 @@
-figure.floatright {
-	max-width: 30%;
-	width: auto\9*0.3; /* ie8 */
-	height: auto;
-	float: right;
+.right {
+  float:right;
+  max-width: 40%;
+  margin-left: 5px
 }
 
-figure.floatleft {
-	max-width: 30%;
-	width: auto\9*0.3; /* ie8 */
-	height: auto;
-	float: left;
+.left {
+  float:left;
+  max-width: 40%;
+  margin-right: 20px
+}
+
+.center {
+  display: block;
+  margin: auto;
+  text-align: center;
 }
