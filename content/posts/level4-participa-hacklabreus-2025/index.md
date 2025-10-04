@@ -18,6 +18,9 @@ test
     ![book](level4.jpg)
 </div>
 
-
+test2
+<div style="text-align: center">
+  {{< figure src="level4.jpg" alt="Level4-hacklabreus" width=200px link="https://level4.es">}}
+</div>
 
 
