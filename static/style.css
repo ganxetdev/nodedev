@@ -1,0 +1,31 @@
+/* Contenedor del grid */
+.post-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* distribuye el espacio uniformemente */
+  gap: 10px;                      /* espacio vertical y horizontal */
+}
+
+/* Cada figure dentro del grid */
+.post-content figure {
+  width: 32%;       /* aprox. 3 columnas con gap */
+  margin: 0;        /* quitar margen individual */
+  padding: 0;
+  border: none;
+  vertical-align: top;
+}
+
+.post-content figure img {
+  width: 100%;      /* imagen ocupa todo el figure */
+  height: auto;
+  border-radius: 8px; /* opcional */
+}
+
+/* Quitar borde amarillo del tema */
+.post-content figure,
+.post-content figure img {
+  border: none !important;       /* elimina cualquier borde */
+  box-shadow: none !important;   /* elimina sombras si las hubiera */
+}
+
+
