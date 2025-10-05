@@ -9,17 +9,14 @@ Aquí hi trobaràs els pròxims esdeveniments i xerrades de seguretat informàti
 
 ---
 
-## Propers esdeveniments
-
-- **Hacklabreus edició 2026** – Data sense confirmar
-
----
-
 ## Notes
 
 - Tots els esdeveniments són gratuïts i oberts a la comunitat.
 - Les places són limitades, depèn de l’aforament del lloc on es facin les conferències. 
 - Si vols proposar un tema o taller, contacta’ns des de la secció **[Contacte](/contact/)**.
 
+---
 
+## Propers esdeveniments
 
+- **Hacklabreus edició 2026** – Data sense confirmar
