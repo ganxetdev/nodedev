@@ -4,8 +4,8 @@ date: 2025-10-02T12:00:00+01:00
 draft: false
 ---
 
-![Hacklabreus-2025](/img/logo.png)
-{width="150" alt="Hack lab reus" class="esquerra"}
+![Hacklab-reus-2025](/img/logo.png)
+{width="150" alt="Hacklab reus" class="esquerra"}
 # ¡Benvinguts a HacklabReus!
 Som un grup d’amics que organitza **conferències i xerrades de seguretat informàtica** totalment gratuïtes i altruistes a Reus.
 
@@ -13,7 +13,7 @@ Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionat
 
 <p class="clear"></p>  
 
-![Hacklab-reus-2025](/img/hacklabreus2025.jpg)
+![Hack-lab-reus-2025](/img/hacklabreus2025.jpg)
 {width="400" alt="Hack lab reus" class="centrat"}  
 
 
