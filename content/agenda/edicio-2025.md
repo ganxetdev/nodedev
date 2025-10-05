@@ -11,4 +11,4 @@ Tema: Ciberseguretat i Hacking Ètic.
 Cartell:  
 
 ![Hacklabreus-2025](/img/cartell-hacklabreus-2025.png)
-{width="200" alt="Hacklabreus" class="centrat"}
+{width="200" alt="Hacklabreus"}
