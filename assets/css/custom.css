@@ -24,3 +24,7 @@
 .clear {
   clear: both;
 }
+.img {
+  border: 5px solid var(--accent);
+  padding: 4px;
+}
