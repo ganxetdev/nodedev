@@ -14,7 +14,8 @@ Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionat
 <p class="clear"></p>  
 
 ![Hacklab-reus-2025](/img/hacklabreus2025.jpg)
-{width="400" alt="Hacklabreus" class="centrat"}
+{width="400" alt="Hacklabreus" class="centrat"}  
+
 
 ---
 
