@@ -190,13 +190,13 @@ input[type="checkbox"] {
 input[type="checkbox"]:checked {
   background: var(--accent);
 }
-
+/* img por defecto border 8px, padding 8px */
 img {
   display: block;
   max-width: 100%;
-  border: 8px solid var(--accent);
+  border: 5px solid var(--accent);
   border-radius: var(--radius);
-  padding: 8px;
+  padding: 4px;
   overflow: hidden;
 }
 
