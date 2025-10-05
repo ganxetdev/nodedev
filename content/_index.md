@@ -11,10 +11,10 @@ Som un grup d’amics que organitza **conferències i xerrades de seguretat info
 
 Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionats amb ciberseguretat i hacking ètic.  
 
-<p class="clear"></p>
+<p class="clear"></p>  
 
 ![Hacklab-reus-2025](/img/hacklabreus2025.jpg)
-{width="300" alt="Hacklabreus" class="centratesquerra"}
+{width="400" alt="Hacklabreus" class="centrat"}
 
 ---
 
