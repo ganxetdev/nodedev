@@ -20,6 +20,7 @@ Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionat
 - **Hacklabreus edició 2025** – 01/02/2025 - Esdeveniment finalitzat!
 - **Hacklabreus edició 2026** – Data per confirmar
 
+{{% comment %}} 
 ---
 
 ## Seccions destacades
@@ -27,4 +28,8 @@ Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionat
 - [Blog](/posts/) – Últims articles i notícies  
 - [Agenda](/agenda/) – Propers esdeveniments i xerrades  
 - [Contacte](/contact/) – Contacta’ns i propostes
+{{% /comment %}}
 
+---
+
+## Últims articles i notícies
