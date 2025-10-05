@@ -1,6 +1,6 @@
 ---
 title: "Resum edició 2022"
-description: "Aquesta edició de 2018 ha estat un èxit."
+description: "Aquesta edició de 2022 ha estat un èxit."
 date: 2022-02-01
 ---
 
