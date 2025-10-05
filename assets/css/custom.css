@@ -1,5 +1,6 @@
 .dreta {
   float:right;
+  vertical-align: top;
   max-width: 32%;
   margin-left: 10px
 }
