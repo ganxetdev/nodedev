@@ -9,13 +9,16 @@ draft: false
 # ¡Benvinguts a HacklabReus!
 Som un grup d’amics que organitza **conferències i xerrades de seguretat informàtica** totalment gratuïtes i altruistes a Reus.
 
-Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionats amb ciberseguretat i hacking ètic.
+Aquí hi trobaràs informació sobre els esdeveniments que organitzem relacionats amb ciberseguretat i hacking ètic.  
 
+<p class="clear"></p>
 
+![Hacklab-reus-2025](/img/hacklabreus2025.jpg)
+{width="300" alt="Hacklabreus" class="centratesquerra"}
 
 ---
 
-## Propers esdeveniments
+## Propers esdeveniments Hacklab Reus
 
 - **Hacklabreus edició 2025** – 01/02/2025 - Esdeveniment finalitzat!
 - **Hacklabreus edició 2026** – Data per confirmar
