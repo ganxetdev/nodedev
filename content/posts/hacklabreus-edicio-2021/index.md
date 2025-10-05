@@ -1,7 +1,7 @@
 ---
-title: "Resum edició 2024"
+title: "Resum edició 2021"
 description: "Aquesta edició de 2018 ha estat un èxit."
-date: 2024-02-01
+date: 2021-02-01
 ---
 
 A continuació, un resum amb algunes fotos de l’esdeveniment:
