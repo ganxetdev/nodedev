@@ -24,6 +24,8 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
 [params]
   #customCSS = ["css/custom.css"]
   ReadMore = "Llegeix més"
+  newerPosts = "Articles més recents"
+  olderPosts = "Articles anteriors"
   # show selector to switch language
   showLanguageSelector = false
 
