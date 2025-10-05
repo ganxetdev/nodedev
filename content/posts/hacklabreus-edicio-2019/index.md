@@ -14,5 +14,9 @@ I finalment i no menys important en Jordi vidal ens va explicar els procesos per
 Moltes gracies a tots per participar i fins la propera.
 Esteu alerta.
 
-![Hacklabreus-2025](logo-hacklabreus-2025.png)
-{width="400" alt="Level4" class="centrat"}
+![Hacklabreus-2025](logo-2019.jpeg)
+{width="400" alt="Hacklabreus-2019" class="centrat"}
+
+A continuació, un resum amb algunes fotos de l’esdeveniment:
+
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

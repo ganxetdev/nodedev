@@ -1,7 +1,7 @@
 ---
-title: "Resum edició 2018"
+title: "Resum edició 2022"
 description: "Aquesta edició de 2018 ha estat un èxit."
-date: 01-02-2018
+date: 01-02-2022
 ---
 
 A continuació, un resum amb algunes fotos de l’esdeveniment:
