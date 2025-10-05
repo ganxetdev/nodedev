@@ -8,6 +8,7 @@ date: 2025-02-01
 
 Tema: Ciberseguretat i Hacking Ètic.  
 
-Cartell:
+Cartell:  
+
 ![Hacklabreus-2025](/img/cartell-hacklabreus-2025.png)
-{width="300" alt="Hacklabreus" class="centrat"}
+{width="200" alt="Hacklabreus" class="centrat"}
