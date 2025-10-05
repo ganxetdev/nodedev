@@ -1,7 +1,7 @@
 ---
 title: "Resum edició 2025"
 description: "Aquesta edició de 2025 ha estat un èxit. Vam parlar sobre ciberseguretat i bones pràctiques. Gràcies a tots els que hi van assistir!"
-date: 01-02-2025
+date: 2025-02-01
 ---
 {{% comment %}} 
 {{< image src="logo-hacklabreus-2025.png" alt="Hacklabreus" position="right" style="max-width:200px; float:right; margin:10px; border-radius: 8px;" >}}
