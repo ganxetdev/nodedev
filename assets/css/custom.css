@@ -19,3 +19,6 @@
 .menu--mobile li {
     white-space: nowrap;
 }
+.clear {
+  clear: both;
+}
