@@ -1,8 +1,5 @@
 ---
 title: "Level4 participa a les ponències de la HACKLABREUS 2025"
-{{% comment %}} 
-description: "Aquest dissabte 1 de febrer vam tenir el plaer de rebre a Level4 a Hacklab Reus, una jornada plena d’aprenentatge i innovació en ciberseguretat, celebrada al Centre d’Innovació i Formació Boca de la Mina, a la ciutat de Reus (Tarragona)."
-{{% /comment %}} 
 date: 2025-02-02
 ---
 
