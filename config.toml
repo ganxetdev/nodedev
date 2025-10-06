@@ -22,8 +22,8 @@ disableKinds = ["RSS", "sitemap", "robotsTXT"]
   noClasses = false
 
 [params]
-  preview = true
-  preview_lines = 7
+  #preview = true
+  #preview_lines = 7
   #customCSS = ["css/custom.css"]
   ReadMore = "Llegeix més"
   newerPosts = "Articles més recents"
