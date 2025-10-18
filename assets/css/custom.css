@@ -24,3 +24,7 @@
 .clear {
   clear: both;
 }
+.video-shortcode {
+  max-width: 60%;
+  height: auto;
+}
