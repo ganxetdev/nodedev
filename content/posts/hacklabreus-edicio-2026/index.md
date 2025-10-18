@@ -9,7 +9,5 @@ Video repte:
 
 {{< video src="hacklabreus_2026_repte.mp4" type="video/mp4" preload="auto" >}}
 
-{{< video "hacklabreus_2026_repte.mp4" "Repte 2026" >}}
 
-{{< video src="hacklabreus_2026_repte.mp4" width="600" controls="yes" >}}
 
