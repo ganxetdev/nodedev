@@ -6,7 +6,7 @@ date: 2025-10-18
 ![Hacklabreus-2026](hacklabreus_2026.jpg)
 {width="300" alt="hacklabreus2026" class="centre"}
 
-El proper 18 d abril a les 09:00 a https://maps.app.goo.gl/3UdSsFV2B3SMEQhX6, es durà a terme la ediciò 2026 de hacklabreus, l'event està obert i es gratuit , encara queden unes quantes places per cobrir, els insteressats escribiu un mail a saurushack@protonmail.com ,i us confirmarem l aceptació de la plaç , us i esperem.
+El proper 18 d'abril a les 09:00 a https://maps.app.goo.gl/3UdSsFV2B3SMEQhX6, es durà a terme l'edició 2026 de hacklabreus. L'event està obert i és gratuït. Encara queden unes quantes places per cobrir. Els interessats escriviu un mail a saurushack@protonmail.com i us confirmarem l'acceptació de la plaça. Us hi esperem.
 
 ![diputacio_tarragona](suport_diputacio_tarragona.jpg)
 {width="500" alt="diputacio_tarragona" class="centrat sin-borde"}
