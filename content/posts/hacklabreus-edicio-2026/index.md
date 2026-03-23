@@ -26,6 +26,9 @@ El proper 18 d abril a les 09:00 a https://maps.app.goo.gl/3UdSsFV2B3SMEQhX6, es
 ![diputacio_tarragona](suport_diputacio_tarragona.jpg)
 {width="500" alt="diputacio_tarragona" class="centrat sin-borde"}
 
+![diputacio_tarragona](suport_diputacio_tarragona.jpg)
+{width="500" alt="diputacio_tarragona" class="centrat sin-borde divider-logo"}
+
 {{< video src="/videos/hacklabreus_2026_intro.mp4" type="video/mp4" preload="auto" >}}
 
 Repte:

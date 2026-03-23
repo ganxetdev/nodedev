@@ -31,3 +31,32 @@
 .sin-borde {
   border: none !important;
 }
+.divider-logo {
+  position: relative;
+  text-align: center;
+  margin: 40px 0;
+}
+
+.divider-logo::before,
+.divider-logo::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 45%;
+  border-bottom: 2px solid white;
+}
+
+.divider-logo::before {
+  left: 0;
+}
+
+.divider-logo::after {
+  right: 0;
+}
+
+.divider-logo img {
+  position: relative;
+  max-width: 80px;
+  border: none;
+  z-index: 1;
+}
