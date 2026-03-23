@@ -14,15 +14,6 @@ El proper 18 d abril a les 09:00 a https://maps.app.goo.gl/3UdSsFV2B3SMEQhX6, es
   <div style="flex: 1; border-bottom: 4px solid white;"></div>
 </div>
 
-<div style="display: flex; align-items: center; margin: 40px 0;">
-  <div style="flex: 1; border-bottom: 2px solid white;"></div>
-  <figure style="margin: 0 20px; max-width: 80px;">
-    {{ $img := .Resources.GetMatch "__suport_diputacio_tarragona.jpg__" }}
-    <img src="{{ $img.RelPermalink }}" alt="diputacio_tarragona" style="border: none;">
-  </figure>
-  <div style="flex: 1; border-bottom: 2px solid white;"></div>
-</div>
-
 ![diputacio_tarragona](suport_diputacio_tarragona.jpg)
 {width="500" alt="diputacio_tarragona" class="centrat sin-borde"}
 
