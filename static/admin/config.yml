@@ -12,6 +12,8 @@ collections:
     label: "Posts"
     folder: "content/posts"
     create: true
+    nested:
+      depth: 2
     slug: "{{slug}}"
     fields:
       - {label: "Títol", name: "title", widget: "string"}
